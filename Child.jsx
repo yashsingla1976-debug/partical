@@ -8,5 +8,4 @@ function Child({ name, age, hobby }) {
     </div>
   );
 }
-
 export default Child;
